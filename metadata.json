@@ -1,0 +1,5 @@
+{
+  "name": "VPN Health Monitor",
+  "description": "A real-time dashboard for monitoring VPN connectivity and site health across multiple locations.",
+  "requestFramePermissions": []
+}
